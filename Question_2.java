@@ -1,5 +1,3 @@
-package assignment_4;
-
 class Employee {
 	String name;
 	int yearOfJoining;
