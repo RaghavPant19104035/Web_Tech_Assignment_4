@@ -1,4 +1,3 @@
-package assignment_4;
 
 class Number {
 	private double num; // instance variable  
@@ -154,6 +153,7 @@ class Number {
 	
 	
 }
+
 public class Question_3 {
 
 	public static void main(String[] args) {
