@@ -1,5 +1,3 @@
-package assignment_4;
-
 import java.util.Scanner;
 import java.util.Vector;
 
